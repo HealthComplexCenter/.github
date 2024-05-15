@@ -1,2 +1,2 @@
-# .github
-Repository of the Copenhagen Health Complexity Center
+# Copenhagen Health Complexity Center
+Official repository
