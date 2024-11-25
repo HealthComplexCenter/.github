@@ -4,7 +4,7 @@ The Copenhagen Health Complexity Center is dedicated to advancing the understand
 
 We are a group of epidemiologists, data scientists, systems scientists, bioinformaticians, curators, and researchers in related fields, collaborating on interdisciplinary projects, with the vision to use a complexity lens and multi-faceted scientific approaches to impact our societies positively.
 
-Through collaborations with professional communication partners, the Center aims to effectively communicate its findings and promote a greater understanding of the complex issues surrounding public health. For more information on our research, teaching, and events, please visit [our websit](healthcomplex.dk).
+Through collaborations with professional communication partners, the Center aims to effectively communicate its findings and promote a greater understanding of the complex issues surrounding public health. For more information on our research, teaching, and events, please visit [our website](https://publichealth.ku.dk/about-the-department/section-epidemiology/research-epi/copenhagen-health-complexity-center/).
 <!--
 
 **Here are some ideas to get you started:**
